@@ -33,5 +33,5 @@ https://docs.google.com/spreadsheets/d/1kTwa9ycy0MY5uQkKIOm5Uvl10_jtGnJtGcHTRVFl
 ​
 El presente repositorio contiene:
 - Un .csv con el set de datos original
-- Un .pdf con el Dashboard creado en Power Bi
+- Un .pdf con el Dashboard creado en Looker Studio
 ​
